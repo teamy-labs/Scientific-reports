@@ -1,0 +1,10 @@
+flask
+flask-cors
+pymupdf
+easyocr
+sentence-transformers
+faiss-cpu
+transformers
+torch
+Pillow
+numpy
